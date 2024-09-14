@@ -15,10 +15,8 @@ Este projeto tem como objetivo desenvolver um modelo de predição para identifi
 
 O modelo apresentou uma acurácia de 98% na previsão de inadimplência. As variáveis mais importantes para a classificação foram renda, idade e histórico de crédito. A figura abaixo mostra a matriz de confusão do modelo:
 
- previsoes_modelo_cross
-     0    1
-  0  424  5
-  1  3   68
+![image](https://github.com/user-attachments/assets/0844d520-ddbe-41b2-a32d-4cd8afe00b3e)
+
 
 **Limitações:**
 
