@@ -29,7 +29,9 @@ O modelo apresentou uma acurácia de 98% na previsão de inadimplência. As vari
 **Futuras direções**
 
 **Comparação com outros algoritmos:** Comparar a performance da árvore de decisão com outros algoritmos, como random forest e XGBoost.
+
 **Balanceamento de classes:** Utilizar técnicas de balanceamento de classes para melhorar a performance do modelo em relação à classe minoritária.
+
 **Feature engineering:** Criar novas features a partir das existentes para melhorar a capacidade preditiva do modelo.
 
 **Tecnologias Utilizadas**
@@ -46,5 +48,5 @@ O modelo apresentou uma acurácia de 98% na previsão de inadimplência. As vari
 - Fazer previsões para novos clientes.
 - Avaliar o desempenho do modelo com as métricas e a matriz de confusão.
 
-**Autores**
+**Autor**
 Matheus Andrade Moreira
