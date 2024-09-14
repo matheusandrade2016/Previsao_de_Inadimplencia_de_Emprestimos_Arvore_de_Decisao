@@ -6,7 +6,7 @@ Este projeto tem como objetivo desenvolver um modelo de predição para identifi
 
 **Metodologia:**
 
-1. **Coleta de Dados:** Os dados foram obtidos de kaggle.com. O conjunto de dados contém informações sobre renda, idade, histórico de crédito.
+1. **Coleta de Dados:** Os dados foram obtidos de (https://www.kaggle.com/). O conjunto de dados contém informações sobre renda, idade, histórico de crédito.
 2. **Pré-processamento:** Os dados foram pré-processados para lidar com valores ausentes Média, Valoes Nulos e Padronização
 3. **Modelagem:** Um modelo de árvore de decisão foi treinado utilizando o algoritmo CART
 4. **Avaliação:** O modelo foi avaliado utilizando a técnica de cross-validation de 10 folds. As métricas de acurácia, precisão, recall e F1-score foram calculadas.
