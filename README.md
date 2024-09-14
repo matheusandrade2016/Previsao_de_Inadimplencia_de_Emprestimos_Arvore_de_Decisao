@@ -21,7 +21,9 @@ O modelo apresentou uma acurácia de 98% na previsão de inadimplência. As vari
 **Limitações:**
 
 **Desbalanceamento de classes:** A taxa de inadimplência geralmente é baixa, o que pode levar a um viés em favor da classe majoritária.
+
 **Generalização:** O modelo pode não generalizar bem para novos conjuntos de dados com características diferentes.
+
 **Interpretabilidade:** Embora as árvores de decisão sejam geralmente interpretáveis, árvores muito complexas podem ser difíceis de entender.
 
 **Futuras direções**
