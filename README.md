@@ -46,7 +46,7 @@ O modelo apresentou uma acurácia de 98% na previsão de inadimplência. As vari
   
 - Carregar a base de dados com informações dos clientes e seus empréstimos.
 - Dividir a base em conjuntos de treino e teste.
-- Treinar o modelo SVM.
+- Treinar o modelo rpart "Árvore de decisão"
 - Fazer previsões para novos clientes.
 - Avaliar o desempenho do modelo com as métricas e a matriz de confusão.
 
