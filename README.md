@@ -1,6 +1,6 @@
 # Predição de Inadimplência de Empréstimos com Árvores de Decisão
 
-**Introdução**
+**Introdução:**
 
 Este projeto tem como objetivo desenvolver um modelo de predição para identificar o risco de inadimplência de clientes de crédito, utilizando a técnica de árvores de decisão. A predição precisa de inadimplência é fundamental para instituições financeiras, pois permite reduzir perdas e otimizar a tomada de decisão.
 
@@ -26,7 +26,8 @@ O modelo apresentou uma acurácia de 98% na previsão de inadimplência. As vari
 
 **Interpretabilidade:** Embora as árvores de decisão sejam geralmente interpretáveis, árvores muito complexas podem ser difíceis de entender.
 
-**Futuras direções**
+
+**Futuras direções:**
 
 **Comparação com outros algoritmos:** Comparar a performance da árvore de decisão com outros algoritmos, como random forest e XGBoost.
 
@@ -34,7 +35,8 @@ O modelo apresentou uma acurácia de 98% na previsão de inadimplência. As vari
 
 **Feature engineering:** Criar novas features a partir das existentes para melhorar a capacidade preditiva do modelo.
 
-**Tecnologias Utilizadas**
+
+**Tecnologias Utilizadas:**
 
 * Linguagem: R
 * Bibliotecas: rpart, caret, catools
@@ -48,5 +50,5 @@ O modelo apresentou uma acurácia de 98% na previsão de inadimplência. As vari
 - Fazer previsões para novos clientes.
 - Avaliar o desempenho do modelo com as métricas e a matriz de confusão.
 
-**Autor**
+**Autor:**
 Matheus Andrade Moreira
